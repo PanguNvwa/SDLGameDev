@@ -1,6 +1,3 @@
-SDLGameDev
-==========
 
 SDL Game Develop
-
-1. ѧϰgit��ʹ��
+1. git使用兼游戏开发学习
